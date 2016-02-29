@@ -1,0 +1,11 @@
+.modal-dialog {
+  min-width: 640px;
+  min-height: 500px;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+#mapframe {
+  width: 600;
+  height: 450px;
+}
